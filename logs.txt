@@ -1745,3 +1745,4 @@
 2025-06-21 10:14:00 - Add commentary: General progress
 2025-06-22 15:16:00 - Post: Morning recap format
 2025-06-22 17:29:00 - Update: News categories restructured
+2025-06-22 15:23:00 - Add article: Media and communication brief
