@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "daily-scope-news",
+  "buildCommand": "npm run build",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
